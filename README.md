@@ -130,4 +130,3 @@ Um FP ocorre quando o modelo  **prevê que o funcionário VAI SAIR (1)** , mas e
 Embora a **Precisão (![](data:,))** seja importante para garantir que as intervenções sejam eficazes e o orçamento de retenção não seja desperdiçado, o **custo da inação** (perder um talento) imposto pelo **Falso Negativo** é financeiramente e operacionalmente mais devastador para a organização.
 
 Portanto, o modelo será ajustado para ter o  **maior Recall possível** , garantindo que o número máximo de funcionários em risco seja identificado e abordado, enquanto a Precisão é mantida em um nível operacionalmente aceitável.
-# analise-atrito-rh-ibm_classificacao
