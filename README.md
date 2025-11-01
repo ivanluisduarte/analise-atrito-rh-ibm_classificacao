@@ -44,8 +44,8 @@ Leia o arquivo de [01_dicionario_de_dados.md](./referencias/01_dicionario_de_dad
 
 ```
 ├── .gitignore         <- Arquivos e diretórios a serem ignorados pelo Git
+├── ambiente.yml    <- O arquivo de requisitos para reproduzir o ambiente de análise
 ├── app.py             <- Aplicação com a interface WEB para uso do modelo via streamlit
-├── environment.yml    <- O arquivo de requisitos para reproduzir o ambiente de análise
 ├── LICENSE            <- Licença de código aberto (MIT)
 ├── README.md          <- README principal para desenvolvedores e recrutadores.
 ├── requirements.txt   <- O arquivo de requisitos para o app no streamlit
