@@ -1,0 +1,100 @@
+{
+  "colunas_categoricas": {
+    "BusinessTravel": {
+      "label": "Business Travel",
+      "mode": "Travel_Rarely",
+      "categories": ["Non-Travel", "Travel_Frequently", "Travel_Rarely"]
+    },
+    "Department-JobRole": {
+      "label": "Department - Job Role",
+      "mode": "Sales - Sales Executive",
+      "categories": [
+        "Human Resources - Human Resources",
+        "Human Resources - Manager",
+        "Research & Development - Healthcare Representative",
+        "Research & Development - Laboratory Technician",
+        "Research & Development - Manager",
+        "Research & Development - Manufacturing Director",
+        "Research & Development - Research Director",
+        "Research & Development - Research Scientist",
+        "Sales - Manager",
+        "Sales - Sales Executive",
+        "Sales - Sales Representative"
+      ]
+    },
+    "EnvironmentSatisfaction": {
+      "label": "Environment Satisfaction",
+      "mode": "High",
+      "categories": ["Low", "Medium", "High", "Very High"]
+    },
+    "JobSatisfaction": {
+      "label": "Job Satisfaction",
+      "mode": "Very High",
+      "categories": ["Low", "Medium", "High", "Very High"]
+    },
+    "MaritalStatus": {
+      "label": "Marital Status",
+      "mode": "Married",
+      "categories": ["Divorced", "Married", "Single"]
+    },
+    "OverTime": {
+      "label": "Over Time",
+      "mode": "No",
+      "categories": ["No", "Yes"]
+    },
+    "StockOptionLevel": {
+      "label": "Stock Option Level",
+      "mode": "0",
+      "categories": ["0", "1", "2", "3"]
+    },
+    "WorkLifeBalance": {
+      "label": "Work Life Balance",
+      "mode": "Better",
+      "categories": ["Bad", "Good", "Better", "Best"]
+    }
+  },
+  "colunas_numericas": {
+    "DailyRate": {
+      "label": "Daily Rate",
+      "mode": 691,
+      "min": 102,
+      "max": 1499
+    },
+    "NumCompaniesWorked": {
+      "label": "Num Companies Worked",
+      "mode": 1,
+      "min": 0,
+      "max": 9
+    },
+    "TotalWorkingYears": {
+      "label": "Total Working Years",
+      "mode": 10,
+      "min": 0,
+      "max": 40
+    },
+    "YearsAtCompany": {
+      "label": "Years At Company",
+      "mode": 5,
+      "min": 0,
+      "max": 40
+    },
+    "YearsInCurrentRole": {
+      "label": "Years In Current Role",
+      "mode": 2,
+      "min": 0,
+      "max": 18
+    },
+    "YearsSinceLastPromotion": {
+      "label": "Years Since Last Promotion",
+      "mode": 0,
+      "min": 0,
+      "max": 15
+    },
+    "YearsWithCurrManager": {
+      "label": "Years With Curr Manager",
+      "mode": 2,
+      "min": 0,
+      "max": 17
+    }
+  }
+}
